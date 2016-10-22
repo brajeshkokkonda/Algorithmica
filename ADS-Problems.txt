@@ -1,0 +1,20 @@
+Array related:
+-Find common elements in two arrays
+-Find duplicate element in a given array (first occurrence only)
+
+List releated:
+-Implement list adt operations
+-Single linked list impl.
+-Reverse a linked list
+-Loop detection in a given list (rabbit & trotoise)
+-Hash map impl.
+-Cache impl using double linked list an map
+
+Recursion releated:
+-Print n to 1
+-Sum of n to 1
+-Find x pow n
+-Towers of hanoii
+-Fibonacci
+-Factorial
+-Tree traversal
