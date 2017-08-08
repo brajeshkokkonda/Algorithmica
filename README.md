@@ -7,8 +7,8 @@ Linear Datastructures
 - Queue (FIFO, BFS)
 
 Non-linear Datastructures
-- Graphs
-- Trees
+- Graphs (Graph Traversals:BFS, DFS, Topological; Prims, Kruskals)
+- Trees (Tree Traversals:In, Pre, Post, Level; BST, AVL, Splay, RedBlack, B Tree, B+ Tree, Heaps) 
 - Forest
 - Heaps
 - Treaps
@@ -17,6 +17,7 @@ Searching
 - Linear Search
 - Binary Search
 - Hashing
+- Bloom Filter
 
 Sorting
 - Bubble Sort
@@ -33,3 +34,15 @@ Algorithm Design Techniques
 - Greedy Method
 - Dynamic Programming
 - Branch & Bound
+
+Sources:
+~~~~~~~~~
+WEB: 
+-http://www.geeksforgeeks.org/
+-https://www.hackerrank.com/
+BOOKS:
+-Introduction To Algorithms by Coremen
+-Data Structures and Algorithms Made Easyby Narasimha Karumanchi
+-Algorithm Design by Jon Kleinberg, Eva Tardos
+-Top20 by Thimma Reddy @ Algorithmica (Hand Notes)
+-Cracking the Coding Interview by Gayle Laakmann McDowell
