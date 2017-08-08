@@ -7,11 +7,8 @@ Linear Datastructures
 - Queue (FIFO, BFS)
 
 Non-linear Datastructures
-- Graphs (Graph Traversals:BFS, DFS, Topological; Prims, Kruskals)
 - Trees (Tree Traversals:In, Pre, Post, Level; BST, AVL, Splay, RedBlack, B Tree, B+ Tree, Heaps) 
-- Forest
-- Heaps
-- Treaps
+- Graphs (Graph Traversals:BFS, DFS, Topological; Prims, Kruskals)
 
 Searching
 - Linear Search
